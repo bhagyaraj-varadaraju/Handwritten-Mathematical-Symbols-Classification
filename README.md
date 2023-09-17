@@ -4,7 +4,7 @@ This is a **group assignment**.
 
 ## Code Implementation & Technical Report
 
-The final deliverables include a 4-page IEEE-format report, code implementation and a detailed GitHub readme file.
+The final deliverables include a 4-page IEEE-format report, code implementation, and a detailed GitHub readme file.
 
 The final project is due Tuesday, December 6 @ 11:59 PM. Find the complete [rubric](https://ufl.instructure.com/courses/455013/assignments/5244219) in the Canvas assignment.
 
@@ -20,9 +20,9 @@ You can download the training data from the Canvas page:
 ## Classification of Basic Handwritten Mathematical Symbols using Conventional Machine Learning Techniques
 
 ### Introduction
- The experiment highlights the signifiance of transfer learning approaches in enhancing the accuracy of various classification algorithms on sparse datasets such as image,speech and many more. Furthermore, the study evaluates and contrasts the efficacy of various machine learninng and transfer learning frameworks on the given sparse dataset housing ten distinct caegories of images. Furthermore, the training code generated a distinct model file upon recieving the training files titled data_train and t_train respectively. Finally the test code requires the genrated model files as well as the test image array and label files for reproducing the results
+ The experiment highlights the significance of transfer learning approaches in enhancing the accuracy of various classification algorithms on sparse datasets such as images, speech, and many more. Furthermore, the study evaluates and contrasts the efficacy of various machine learning and transfer learning frameworks on the given sparse dataset housing ten distinct categories of images. Furthermore, the training code generated a distinct model file upon receiving the training files titled data_train and t_train respectively. Finally, the test code requires the generated model files as well as the test image array and label files for reproducing the results
  
- #### Note: Due to the size of the generated model file, we have compressed the file into a zipfile and provided a url for accesing the same based onyour convenience.Kindly do the needfull.
+ #### Note: Due to the size of the generated model file, we have compressed the file into a zip file and provided a url for accessing the same based on your convenience. Kindly do the needful.
  
  
 ### Team members
@@ -33,7 +33,7 @@ You can download the training data from the Canvas page:
 
 ### Dependencies
 
-This codebase uses pytorch and opencv in addition to default dependencies that comes with anaconda3. 
+This codebase uses Pytorch and OpenCV in addition to default dependencies that come with anaconda3. 
 The same environment could be recreated using the following command which uses the conda 
 [environment file](environment.yml).
 
@@ -58,7 +58,7 @@ same location folder as that of the [Test.ipynb](Test.ipynb) notebook file.
 * data_test.npy - Numpy file of format (90000 * N)
 * t_test.npy - Numpy file of formal (N,)
 
-### Download Link for generated model file
+### Download link for generated model file
  * ["Model File"](https://shorturl.at/jkl27)
 
 ### Steps to Execute
